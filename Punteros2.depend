@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1507561179 source:c:\users\alumno\desktop\punteros2\lib.c
+	"lib.h"
+
+1507561397 c:\users\alumno\desktop\punteros2\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
